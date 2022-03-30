@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinetaNoreika
 - 👀 I’m interested in IT world.
-- 🌱 I’m currently learning Agile
+- 🌱 I’m currently learning Agile.
 - 💞️ I’m looking to collaborate on Product Ownership.
 - 📫 How to reach me by email.
 
